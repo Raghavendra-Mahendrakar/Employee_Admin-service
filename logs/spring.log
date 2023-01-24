@@ -461,3 +461,4 @@ org.hibernate.QueryException: could not resolve property: Id of: com.pws.employe
 2023-01-24 11:19:59 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
 2023-01-24 11:19:59 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
 2023-01-24 11:19:59 [http-nio-8081-exec-5] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /api/
+2023-01-24 11:19:59 [http-nio-8081-exec-8] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /api/csrf
